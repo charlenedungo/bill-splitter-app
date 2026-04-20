@@ -5,7 +5,7 @@ A Java desktop application that helps groups split expenses and track payments d
 The Bill Splitter App is designed to simplify expense sharing among friends during hangouts, trips, or events. Users can create groups, add members, and record expenses with assigned payers. The system automatically calculates how much each member owes and generates a simplified list of transactions (e.g., A pays B ₱100). It also tracks payment status and stores completed transactions in a history log for future reference.
 
 # Features
-- Create multiple gorups or events
+- Create multiple grups or events
 - Add members and expenses
 - Assign who paid each expenses
 - Automatic balance computation

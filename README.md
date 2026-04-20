@@ -52,15 +52,19 @@ The Bill Splitter App is designed to simplify expense sharing among friends duri
 🎀 Authors
 
 🌷 Shanen Anne Mirador 
+
 🔗 Github: https://github.com/vanravna
   
 🌷 Charlene Dungo
+
 🔗 Github: https://github.com/charlenedungo
   
 🌷 Ayesha Caragay
+
 🔗 Github: https://github.com/caragayayesha
   
 🌷 Kiana Yeo
+
 🔗 Github: https://github.com/kiacodesss
   
 📜 License
